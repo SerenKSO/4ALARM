@@ -1,0 +1,40 @@
+<resources>
+    <string name="radiobutton">RadioButton</string>
+    <string name="button">Button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Logo">logo</string>
+    <string name="Sifre">Şifre</string>
+    <string name="KullaniciAdi">Kullanıcı Adı</string>
+    <string name="Password">Şifre</string>
+    <string name="Username">Kullanıcı Adı</string>
+    <string name="BeniHatirla">Beni Hatırla</string>
+    <string name="Kaydol">KAYDOL</string>
+    <string name="Adi">Adı</string>
+    <string name="Soyadi">Soyadı</string>
+    <string name="EmailAdresi">Email Adresi</string>
+    <string name="Kayit">KAYIT</string>
+    <string name="ConfirmEmailAddress">Email Adress Doğrula</string>
+    <string name="KayitOl">KAYIT OL</string>
+    <string name="GirisYap" >GİRİŞ YAP</string>
+    <string name="app_name" translatable="false">4ALARM</string>
+    <string name="language">language</string>
+    <string name="dil_degistir">dil_degistir</string>
+</resources>
